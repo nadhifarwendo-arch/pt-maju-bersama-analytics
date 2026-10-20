@@ -122,12 +122,6 @@ Model dipilih menggunakan average precision di data validasi kronologis. Dalam s
 - Akurasi tinggi belum cukup jika recall untuk invoice terlambat rendah. Model dengan recall nol tidak menangkap satu pun invoice terlambat pada data uji sehingga tidak layak langsung digunakan untuk prioritas penagihan.
 - Hasil model hanya alat bantu. Tim keuangan perlu memeriksa konteks pelanggan, kebijakan, dan risiko salah prediksi sebelum bertindak.
 
-## Upload ke GitHub
-
-1. Buat repository baru di GitHub, misalnya `pt-maju-bersama-analytics`. Buat repository kosong agar README yang ada di folder proyek tidak bentrok.
-2. Ekstrak folder proyek ini, lalu buka terminal di folder `pt-maju-bersama-analytics`.
-3. Jalankan perintah berikut. Ganti `USERNAME` dengan username GitHub milikmu.
-
 ```bash
 git init
 git add .
