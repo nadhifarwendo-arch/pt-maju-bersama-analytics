@@ -122,17 +122,6 @@ Model dipilih menggunakan average precision di data validasi kronologis. Dalam s
 - Akurasi tinggi belum cukup jika recall untuk invoice terlambat rendah. Model dengan recall nol tidak menangkap satu pun invoice terlambat pada data uji sehingga tidak layak langsung digunakan untuk prioritas penagihan.
 - Hasil model hanya alat bantu. Tim keuangan perlu memeriksa konteks pelanggan, kebijakan, dan risiko salah prediksi sebelum bertindak.
 
-```bash
-git init
-git add .
-git commit -m "Add data analytics case study"
-git branch -M main
-git remote add origin https://github.com/USERNAME/pt-maju-bersama-analytics.git
-git push -u origin main
-```
-
-Jika Git meminta autentikasi, login lewat GitHub atau gunakan mekanisme autentikasi Git yang resmi. Jangan mengunggah token, password, atau kredensial ke source code.
-
 ## Batasan
 
 Data sintetis, volume data kecil, dan pola yang dibangkitkan tidak mencerminkan seluruh kompleksitas bisnis. Hasil model bukan prediksi operasional, bukan nasihat keuangan, dan tidak boleh dianggap sebagai bukti hubungan kausal. Penggunaan nyata memerlukan data yang berizin, definisi target yang disepakati, validasi berdasarkan waktu, pemantauan kinerja, serta tinjauan manusia.
