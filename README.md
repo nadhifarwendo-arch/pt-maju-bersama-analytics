@@ -1,3 +1,7 @@
+<img width="1500" height="825" alt="tren_piutang" src="https://github.com/user-attachments/assets/37ded3a8-6ff5-40d4-b91e-b63155765f10" />
+<img width="1500" height="825" alt="tren_pendapatan" src="https://github.com/user-attachments/assets/9ca8d020-f3fd-4bae-869d-d1677d39a3b8" />
+<img width="1500" height="825" alt="tren_laba_bersih" src="https://github.com/user-attachments/assets/ec7fc849-63a4-4eab-9d7e-f0d47fc0e01b" />
+<img width="1500" height="825" alt="tren_arus_kas" src="https://github.com/user-attachments/assets/b80c959e-f851-4590-b862-6a09eeeb9a90" />
 # Studi Kasus Data Analytics dan AI — PT Maju Bersama
 
 ## Ringkasan
