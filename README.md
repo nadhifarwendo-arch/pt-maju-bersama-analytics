@@ -109,7 +109,7 @@ Model dipilih menggunakan average precision di data validasi kronologis. Dalam s
 [Tren laba bersih]
 <img width="1500" height="825" alt="tren_laba_bersih" src="https://github.com/user-attachments/assets/ec7fc849-63a4-4eab-9d7e-f0d47fc0e01b" />
 
-[Tren piutang]
+[Tren Piutang]
 <img width="1500" height="825" alt="tren_piutang" src="https://github.com/user-attachments/assets/37ded3a8-6ff5-40d4-b91e-b63155765f10" />
 
 [Tren arus kas operasi]
